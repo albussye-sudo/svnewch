@@ -1,3 +1,5 @@
+http://121.82.219.116:7712/en/,Japan
+http://121.165.121.93:18257/en/,Japan
 http://23.137.253.145:56189/en/,Japan
 http://157.120.13.212:43901/en/,Japan
 http://v-dot-pn-ams1.opengw.net:33304/en/,Japan
