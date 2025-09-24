@@ -223,3 +223,6 @@ Japan:vpn387237854.opengw.net:1939
 Japan:vpn387237854.opengw.net:1206
 hindi:vpn387237854.opengw.net:1206
 hindi:vpn780264137.opengw.net:1195
+hindi:vpn780264137.opengw.net:995
+hindi:vpn780264137.opengw.net:465
+hindi:vpn780264137.opengw.net:9008
