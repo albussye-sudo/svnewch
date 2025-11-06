@@ -158,3 +158,9 @@ Korea Republic of:vpn103760136.opengw.net:1867
 Korea Republic of:vpn103760136.opengw.net:1364
 Korea Republic of:vpn137069510.opengw.net:1977
 Korea Republic of:vpn137069510.opengw.net:1718
+Game:vpn667136266.opengw.net:1325
+Game:vpn922012303.opengw.net:1195
+Game:vpn545744494.opengw.net:1642
+Game:vpn910719100.opengw.net:1946
+Game:vpn910719100.opengw.net:1620
+Game:vpn545744494.opengw.net:1456
